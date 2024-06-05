@@ -66,9 +66,9 @@ const App = () => {
                 className="w-full mt-2 p-2 border border-gray-300 "
               >
                 <option value="">Select content type</option>
-                <option value="blog">Blog</option>
-                <option value="video">Video</option>
-                <option value="podcast">Podcast</option>
+                <option value="Movie">Movie</option>
+                <option value="Show">Show</option>
+                <option value="Anime">Anime UwU</option>
               </select>
             </div>
 
